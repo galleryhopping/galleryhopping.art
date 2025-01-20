@@ -9,18 +9,23 @@
             color: #32926a; /* Verde chiaro per il testo */
             text-align: center; /* Centra tutto il contenuto */
             font-size: 24px; /* Dimensione maggiore per il testo */
+            font-weight: bold; /* Tutto il testo in grassetto */
         }
         a {
             color: #32926a; /* Verde chiaro per i link */
             text-decoration: none;
-            font-size: 30px; /* Più grande per i link */
+            font-size: 20px; /* Più piccolo per i link */
         }
         a:hover {
             text-decoration: underline;
         }
         .dark-green {
             color: #28664c; /* Verde scuro */
-            font-size: 30px; /* Più grande per il testo in verde scuro */
+            font-size: 20px; /* Più piccolo per il testo in verde scuro */
+        }
+        .large-italic {
+            font-size: 36px; /* Più grande per il testo iniziale */
+            font-style: italic; /* Testo in corsivo */
         }
         img {
             width: 300px; /* Logo più grande */
@@ -29,7 +34,7 @@
 </head>
 <body>
 
-<p style="color: #32926a;">Porta Venezia walking tour — Saturday, 1st February</p>
+<p class="large-italic">Porta Venezia walking tour — Saturday, 1st February</p>
 
 <br><br><br>
 
@@ -39,11 +44,11 @@
     </a>
 </p>
 
-<br><br>
+<br><br><br>
 
 <img src="logo.PNG" alt="Gallery Hopping Milano Logo">
 
-<br><br>
+<br><br><br>
 
 <p>
     <a href="your-newsletter-link-here" target="_blank" class="dark-green">
@@ -57,3 +62,4 @@
 
 </body>
 </html>
+
