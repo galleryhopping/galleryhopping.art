@@ -37,7 +37,7 @@
 </head>
 <body>
 
-<p class="small-text">Porta Venezia walking tour — Saturday, 1st February</p>
+<p class="small-text" style="color: #28664c;">Porta Venezia walking tour — Saturday, 1st February</p>
 
 <br><br><br>
 
@@ -65,6 +65,7 @@
 
 </body>
 </html>
+
 
 
 
