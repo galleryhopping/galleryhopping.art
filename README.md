@@ -22,26 +22,27 @@
     </style>
 </head>
 <body>
-    <h1>galleryhopping.art</h1>
 
-    <h2>Porta Venezia walking tour — Saturday, 1st February</h2>
+  <h2>Porta Venezia walking tour — Saturday, 1st February</h2>
 
     <br><br><br>
 
     <p>
         <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank">
-            instagram
+            <span style="color: #31a565;">instagram</span>
         </a>
     </p>
 
     <br><br>
 
-    <img src="logo.png" alt="Gallery Hopping Milano Logo" width="200">
+    <img src="logo.png" alt width="200">
 
     <br><br>
 
     <p>
-        <a href="your-newsletter-link-here" target="_blank">newsletter</a>
+        <a href="your-newsletter-link-here" target="_blank">
+            <span style="color: #31a565;">newsletter</span>
+        </a>
     </p>
 
     <br><br><br><br><br>
