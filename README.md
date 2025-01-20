@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,15 +5,15 @@
     <title>Gallery Hopping Milano</title>
     <style>
         body {
-            background-color: pink;
-            color: green;
+            background-color: #f9bad0; /* Rosa prescelto */
+            color: #31a565; /* Verde prescelto */
             font-family: Arial, sans-serif;
             text-align: center;
             margin: 0;
             padding: 0;
         }
         a {
-            color: green;
+            color: #31a565; /* Verde prescelto */
             text-decoration: none;
         }
         a:hover {
@@ -30,9 +29,8 @@
     <br><br><br>
 
     <p>
-        instagram: 
         <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank">
-            @GalleryHopping.Milano
+            instagram
         </a>
     </p>
 
@@ -43,8 +41,7 @@
     <br><br>
 
     <p>
-        newsletter: 
-        <a href="your-newsletter-link-here" target="_blank">Subscribe here</a>
+        <a href="your-newsletter-link-here" target="_blank">newsletter</a>
     </p>
 
     <br><br><br><br><br>
