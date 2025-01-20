@@ -47,7 +47,7 @@
     </a>
 </p>
 
-<br><br>
+<br>
 
 <img src="logo.PNG" alt="Gallery Hopping Milano Logo">
 
