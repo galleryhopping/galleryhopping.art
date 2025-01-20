@@ -1,28 +1,35 @@
-<html lang="eng">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-color: #f5d0f4; /* Rosa di sfondo */
-            font-family: Arial, sans-serif;
-            color: #31a565; /* Verde chiaro per il testo */
+            background-color: #e199c7; /* Rosa di sfondo come nel logo */
+            font-family: 'League Spartan', sans-serif; /* Font del logo */
+            color: #32926a; /* Verde chiaro per il testo */
+            text-align: center; /* Centra tutto il contenuto */
+            font-size: 24px; /* Dimensione maggiore per il testo */
         }
         a {
-            color: #31a565; /* Verde chiaro per i link */
+            color: #32926a; /* Verde chiaro per i link */
             text-decoration: none;
+            font-size: 30px; /* Più grande per i link */
         }
         a:hover {
             text-decoration: underline;
         }
         .dark-green {
             color: #28664c; /* Verde scuro */
+            font-size: 30px; /* Più grande per il testo in verde scuro */
+        }
+        img {
+            width: 300px; /* Logo più grande */
         }
     </style>
 </head>
 <body>
 
-<p style="color: #31a565;">Porta Venezia walking tour — Saturday, 1st February</p>
+<p style="color: #32926a;">Porta Venezia walking tour — Saturday, 1st February</p>
 
 <br><br><br>
 
@@ -34,7 +41,7 @@
 
 <br><br>
 
-<img src="logo.PNG" alt="Gallery Hopping Milano Logo" width="200">
+<img src="logo.PNG" alt="Gallery Hopping Milano Logo">
 
 <br><br>
 
