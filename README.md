@@ -59,7 +59,7 @@
     </a>
 </p>
 
-<br><br><br><br><br>
+<br><br><br>
 
 <p class="dark-green" style="font-size: 10px;">&copy; 2025 gallery hopping Milano</p>
 
