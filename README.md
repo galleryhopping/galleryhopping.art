@@ -1,63 +1,54 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gallery Hopping Milano</title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap');
-
         body {
-            font-family: 'League Spartan', sans-serif;
-            background-color: #e199c7; /* Rosa di sfondo */
-            color: #32926a; /* Verde principale per il testo */
-            margin: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
+            background-color: pink;
+            color: green;
+            font-family: Arial, sans-serif;
             text-align: center;
+            margin: 0;
+            padding: 0;
         }
-
-        header {
-            font-size: 1.5em;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-
-        img {
-            max-width: 300px;
-            height: auto;
-            margin: 20px 0;
-        }
-
         a {
+            color: green;
             text-decoration: none;
-            font-weight: bold;
-            color: #28664c; /* Verde per i link */
-            margin: 10px 0;
-            display: inline-block;
         }
-
-        footer {
-            margin-top: 20px;
-            font-size: 0.9em;
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <header>
-        Porta Venezia walking tour — Saturday, 1st February
-    </header>
-    <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" id="instagram-link" target="_blank">
-        Instagram
-    </a>
-    <img src="logo.png" alt="Gallery Hopping Milano Logo">
-    <a href="#" id="newsletter-link">Newsletter</a>
-    <footer>
-        &copy; 2025 gallery hopping Milano
-    </footer>
+    <h1>galleryhopping.art</h1>
+
+    <h2>Porta Venezia walking tour — Saturday, 1st February</h2>
+
+    <br><br><br>
+
+    <p>
+        instagram: 
+        <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank">
+            @GalleryHopping.Milano
+        </a>
+    </p>
+
+    <br><br>
+
+    <img src="logo.png" alt="Gallery Hopping Milano Logo" width="200">
+
+    <br><br>
+
+    <p>
+        newsletter: 
+        <a href="your-newsletter-link-here" target="_blank">Subscribe here</a>
+    </p>
+
+    <br><br><br><br><br>
+
+    <p>&copy; 2025 gallery hopping Milano</p>
 </body>
 </html>
-
