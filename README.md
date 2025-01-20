@@ -1,52 +1,52 @@
-<html lang="en">
+<html lang="eng">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gallery Hopping Milano</title>
     <style>
         body {
-            background-color: #f9bad0; /* Rosa prescelto */
-            color: #31a565; /* Verde prescelto */
+            background-color: #f5d0f4; /* Rosa di sfondo */
             font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
+            color: #31a565; /* Verde chiaro per il testo */
         }
         a {
-            color: #31a565; /* Verde prescelto */
+            color: #31a565; /* Verde chiaro per i link */
             text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
         }
+        .dark-green {
+            color: #28664c; /* Verde scuro */
+        }
     </style>
 </head>
 <body>
 
-  <h2>Porta Venezia walking tour — Saturday, 1st February</h2>
+<p style="color: #31a565;">Porta Venezia walking tour — Saturday, 1st February</p>
 
-    <br><br><br>
+<br><br><br>
 
-    <p>
-        <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank">
-            <span style="color: #31a565;">instagram</span>
-        </a>
-    </p>
+<p>
+    <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank" class="dark-green">
+        instagram
+    </a>
+</p>
 
-    <br><br>
+<br><br>
 
-    <img src="logo.png" alt width="200">
+<img src="logo.PNG" alt="Gallery Hopping Milano Logo" width="200">
 
-    <br><br>
+<br><br>
 
-    <p>
-        <a href="your-newsletter-link-here" target="_blank">
-            <span style="color: #31a565;">newsletter</span>
-        </a>
-    </p>
+<p>
+    <a href="your-newsletter-link-here" target="_blank" class="dark-green">
+        newsletter
+    </a>
+</p>
 
-    <br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-    <p>&copy; 2025 gallery hopping Milano</p>
+<p class="dark-green">&copy; 2025 gallery hopping Milano</p>
+
 </body>
 </html>
