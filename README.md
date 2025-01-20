@@ -38,7 +38,7 @@
 
 <p class="small-text">Porta Venezia walking tour — Saturday, 1st February</p>
 
-<br><br><br>
+<br><br>
 
 <p>
     <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank" class="dark-green capitalized">
@@ -46,11 +46,11 @@
     </a>
 </p>
 
-<br><br><br>
+<br><br>
 
 <img src="logo.PNG" alt="Gallery Hopping Milano Logo">
 
-<br><br><br>
+<br><br>
 
 <p>
     <a href="your-newsletter-link-here" target="_blank" class="dark-green capitalized">
@@ -58,11 +58,12 @@
     </a>
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <p class="dark-green" style="font-size: 10px;">&copy; 2025 gallery hopping Milano</p>
 
 </body>
 </html>
+
 
 
