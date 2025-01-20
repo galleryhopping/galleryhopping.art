@@ -25,6 +25,7 @@
         }
         .small-text {
             font-size: 18px; /* Più piccolo per la prima scritta */
+            text-decoration: underline; /* Sottolineato */
         }
         .capitalized {
             text-transform: capitalize; /* Prima lettera maiuscola per le parole */
@@ -38,7 +39,7 @@
 
 <p class="small-text">Porta Venezia walking tour — Saturday, 1st February</p>
 
-<br><br>
+<br><br><br>
 
 <p>
     <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank" class="dark-green capitalized">
@@ -58,12 +59,13 @@
     </a>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p class="dark-green" style="font-size: 10px;">&copy; 2025 gallery hopping Milano</p>
 
 </body>
 </html>
+
 
 
 
