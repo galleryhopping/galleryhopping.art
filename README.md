@@ -14,18 +14,20 @@
         a {
             color: #32926a; /* Verde chiaro per i link */
             text-decoration: none;
-            font-size: 20px; /* Più piccolo per i link */
+            font-size: 15px; /* Più piccolo per i link */
         }
         a:hover {
             text-decoration: underline;
         }
         .dark-green {
             color: #28664c; /* Verde scuro */
-            font-size: 20px; /* Più piccolo per il testo in verde scuro */
+            font-size: 15px; /* Più piccolo per il testo in verde scuro */
         }
-        .large-italic {
-            font-size: 36px; /* Più grande per il testo iniziale */
-            font-style: italic; /* Testo in corsivo */
+        .small-text {
+            font-size: 18px; /* Più piccolo per la prima scritta */
+        }
+        .capitalized {
+            text-transform: capitalize; /* Prima lettera maiuscola per le parole */
         }
         img {
             width: 300px; /* Logo più grande */
@@ -34,13 +36,13 @@
 </head>
 <body>
 
-<p class="large-italic">Porta Venezia walking tour — Saturday, 1st February</p>
+<p class="small-text">Porta Venezia walking tour — Saturday, 1st February</p>
 
 <br><br><br>
 
 <p>
-    <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank" class="dark-green">
-        instagram
+    <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank" class="dark-green capitalized">
+        Instagram
     </a>
 </p>
 
@@ -51,15 +53,16 @@
 <br><br><br>
 
 <p>
-    <a href="your-newsletter-link-here" target="_blank" class="dark-green">
-        newsletter
+    <a href="your-newsletter-link-here" target="_blank" class="dark-green capitalized">
+        Newsletter
     </a>
 </p>
 
 <br><br><br><br><br><br><br><br>
 
-<p class="dark-green">&copy; 2025 gallery hopping Milano</p>
+<p class="dark-green" style="font-size: 10px;">&copy; 2025 gallery hopping Milano</p>
 
 </body>
 </html>
+
 
