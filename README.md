@@ -32,10 +32,12 @@
         }
         img {
             width: 300px; /* Logo più grande */
+            pointer-events: none; /* Impedisce clic e download */
+            user-select: none; /* Disabilita la selezione del logo */
         }
     </style>
 </head>
-<body>
+<body oncontextmenu="return false;"> <!-- Disabilita clic destro sulla pagina -->
 
 <p class="small-text" style="color: #28664c;">Porta Venezia walking tour — Saturday, 1st February</p>
 
