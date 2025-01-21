@@ -54,7 +54,7 @@
 <br><br><br>
 
 <p>
-    <a href="your-newsletter-link-here" target="_blank" class="dark-green capitalized">
+    <a href="https://dashboard.mailerlite.com/forms/1289305/144128658499437846/share" target="_blank" class="dark-green capitalized">
         Newsletter
     </a>
 </p>
@@ -65,8 +65,3 @@
 
 </body>
 </html>
-
-
-
-
-
