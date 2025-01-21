@@ -78,7 +78,7 @@
 
 <!-- Aggiungi il footer con il testo richiesto -->
 <footer>
-    <div>© 2025 Gallery Shopping Milano</div>
+    <div>© 2025 gallery hopping Milano</div>
 </footer>
 
 </body>
