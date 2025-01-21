@@ -2,11 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title> <!-- Rimosso "galleryhopping.art" dal titolo della pagina -->
-
-    <!-- Aggiungi il logo come favicon -->
+    <title></title> <!-- Assicurati che il tag title sia vuoto o personalizzato -->
     <link rel="icon" href="logo.PNG" type="image/png">
-
     <style>
         body {
             background-color: #e199c7; /* Rosa di sfondo come nel logo */
@@ -51,7 +48,6 @@
 <body oncontextmenu="return false;"> <!-- Disabilita clic destro sulla pagina -->
 
 <!-- Aggiungi il contenuto della pagina come prima -->
-
 <p class="small-text" style="color: #28664c;">Porta Venezia walking tour — Saturday, 1st February</p>
 
 <br><br><br>
@@ -78,7 +74,7 @@
 
 <!-- Aggiungi il footer con il testo richiesto -->
 <footer>
-    <div>© 2025 gallery hopping Milano</div>
+    <div>© 2025 Gallery Shopping Milano</div>
 </footer>
 
 </body>
