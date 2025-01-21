@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title> <!-- Assicurati che il tag title sia vuoto o personalizzato -->
+    
     <link rel="icon" href="logo.PNG" type="image/png">
     <style>
         body {
