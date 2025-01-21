@@ -2,6 +2,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery Hopping Milano</title>
+
+    <!-- Aggiungi il logo come favicon -->
+    <link rel="icon" href="logo.PNG" type="image/png">
+
     <style>
         body {
             background-color: #e199c7; /* Rosa di sfondo come nel logo */
@@ -35,9 +40,17 @@
             pointer-events: none; /* Impedisce clic e download */
             user-select: none; /* Disabilita la selezione del logo */
         }
+        footer {
+            margin-top: 40px; /* Distanza dal resto del contenuto */
+            padding: 20px 0;
+            font-size: 15px;
+            color: #28664c; /* Verde scuro */
+        }
     </style>
 </head>
 <body oncontextmenu="return false;"> <!-- Disabilita clic destro sulla pagina -->
+
+<!-- Aggiungi il contenuto della pagina come prima -->
 
 <p class="small-text" style="color: #28664c;">Porta Venezia walking tour — Saturday, 1st February</p>
 
@@ -62,6 +75,11 @@
 </p>
 
 <br><br><br>
+
+<!-- Aggiungi il footer con il testo richiesto -->
+<footer>
+    <div>(c) 2025 Gallery Shopping Milano</div>
+</footer>
 
 </body>
 </html>
