@@ -4,6 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="icon" href="logo.PNG" type="image/png">
+    <link rel="icon" href="logo.ico" type="image/x-icon"> <!-- Favicon in formato .ico -->
+<link rel="apple-touch-icon" href="logo.PNG"> <!-- Icona per i dispositivi Apple -->
+<link rel="icon" href="logo.svg" type="image/svg+xml"> <!-- Icona in formato SVG -->
     <style>
         body {
             background-color: #e199c7; /* Rosa di sfondo come nel logo */
