@@ -69,4 +69,17 @@
 <br><br><br>
 
 <p>
-   
+    <a href="https://dashboard.mailerlite.com/forms/1289305/144128658499437846/share" target="_blank" class="dark-green capitalized">
+        Newsletter
+    </a>
+</p>
+
+<br><br><br>
+
+<!-- Aggiungi il footer con il testo richiesto -->
+<footer>
+    <div>© 2025 Gallery Shopping Milano</div>
+</footer>
+
+</body>
+</html>
