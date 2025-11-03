@@ -73,6 +73,13 @@
 
 <br><br><br>
 
+<!-- Sostituito Newsletter con Site under construction -->
+<p class="dark-green">
+    Site under construction
+</p>
+
+<br><br><br>
+
 <!-- Footer -->
 <footer>
     <div>© 2025 Gallery Hopping Milano</div>
