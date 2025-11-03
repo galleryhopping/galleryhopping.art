@@ -4,59 +4,65 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <link rel="icon" href="logo.PNG" type="image/png">
-    <link rel="icon" href="logo.ico" type="image/x-icon"> <!-- Favicon in formato .ico -->
-<link rel="apple-touch-icon" href="logo.PNG"> <!-- Icona per i dispositivi Apple -->
-<link rel="icon" href="logo.svg" type="image/svg+xml"> <!-- Icona in formato SVG -->
+    <link rel="icon" href="logo.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="logo.PNG">
+    <link rel="icon" href="logo.svg" type="image/svg+xml">
+
     <style>
         body {
-            background-color: #e199c7; /* Rosa di sfondo come nel logo */
-            font-family: 'League Spartan', sans-serif; /* Font del logo */
-            color: #32926a; /* Verde chiaro per il testo */
-            text-align: center; /* Centra tutto il contenuto */
-            font-size: 24px; /* Dimensione maggiore per il testo */
-            font-weight: bold; /* Tutto il testo in grassetto */
+            background-color: #e199c7;
+            font-family: 'League Spartan', sans-serif;
+            color: #32926a;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
         }
         a {
-            color: #32926a; /* Verde chiaro per i link */
+            color: #32926a;
             text-decoration: none;
-            font-size: 15px; /* Più piccolo per i link */
+            font-size: 18px;
         }
         a:hover {
             text-decoration: underline;
         }
         .dark-green {
-            color: #28664c; /* Verde scuro */
-            font-size: 15px; /* Più piccolo per il testo in verde scuro */
+            color: #28664c;
         }
         .small-text {
-            font-size: 18px; /* Più piccolo per la prima scritta */
-            text-decoration: underline; /* Sottolineato */
-        }
-        .capitalized {
-            text-transform: capitalize; /* Prima lettera maiuscola per le parole */
+            font-size: 22px;
+            text-decoration: underline;
         }
         img {
-            width: 300px; /* Logo più grande */
-            pointer-events: none; /* Impedisce clic e download */
-            user-select: none; /* Disabilita la selezione del logo */
+            width: 300px;
+            pointer-events: none;
+            user-select: none;
         }
         footer {
-            margin-top: 40px; /* Distanza dal resto del contenuto */
+            margin-top: 40px;
             padding: 20px 0;
-            font-size: 12px; /* Font più piccolo per l'ultima riga */
-            color: #28664c; /* Verde scuro */
+            font-size: 12px;
+            color: #28664c;
         }
     </style>
 </head>
-<body oncontextmenu="return false;"> <!-- Disabilita clic destro sulla pagina -->
 
-<!-- Aggiungi il contenuto della pagina come prima -->
-<p class="small-text" style="color: #28664c;">Missori walking tour — Saturday, November 8thy</p>
+<body oncontextmenu="return false;">
+
+<!-- Titolo con link cliccabile -->
+<p class="small-text dark-green">
+    <a href="https://www.eventbrite.com/e/gallery-hopping-walking-tour-tickets-1828618409889?aff=oddtdtcreator"
+       target="_blank"
+       class="dark-green">
+        Missori walking tour — Saturday, November 8th
+    </a>
+</p>
 
 <br><br><br>
 
 <p>
-    <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1" target="_blank" class="dark-green capitalized">
+    <a href="https://www.instagram.com/galleryhopping.milano?igsh=dTJ3dHVjNTY2dWc1"
+       target="_blank"
+       class="dark-green">
         Instagram
     </a>
 </p>
@@ -67,17 +73,9 @@
 
 <br><br><br>
 
-<p>
-    <a href="https://dashboard.mailerlite.com/forms/1289305/144128658499437846/share" target="_blank" class="dark-green capitalized">
-        Newsletter
-    </a>
-</p>
-
-<br><br><br>
-
-<!-- Aggiungi il footer con il testo richiesto -->
+<!-- Footer -->
 <footer>
-    <div>© 2025 Gallery Shopping Milano</div>
+    <div>© 2025 Gallery Hopping Milano</div>
 </footer>
 
 </body>
