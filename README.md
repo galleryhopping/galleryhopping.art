@@ -51,7 +51,7 @@
 <body oncontextmenu="return false;"> <!-- Disabilita clic destro sulla pagina -->
 
 <!-- Aggiungi il contenuto della pagina come prima -->
-<p class="small-text" style="color: #28664c;">Porta Venezia walking tour — Saturday, 1st February</p>
+<p class="small-text" style="color: #28664c;">Missori walking tour — Saturday, November 8thy</p>
 
 <br><br><br>
 
